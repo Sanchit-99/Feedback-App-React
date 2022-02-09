@@ -158,6 +158,13 @@ input:focus {
   outline: none;
 }
 
+.spinner{
+  height: 50px;
+  width: 50px;
+  margin: auto;
+  display: block;
+}
+
 .feedback-stats {
   color: #fff;
   display: flex;
